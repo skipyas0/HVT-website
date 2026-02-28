@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "63008190a8e9aa58",
+    "type": "split",
+    "children": [
+      {
+        "id": "12d272b701bc680d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82ba821743bbfd7a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "media/ptacek.png"
+              },
+              "icon": "lucide-image",
+              "title": "ptacek"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bca737c4c1b77b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "853b8657b317732b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea7251d0e15d2c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "257198f1b190c523",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6a768b85a526b02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc14d88a286fcf08",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ff8f3a57cac9663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c4b93c79441500a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "media/ptacek.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ptacek"
+            }
+          },
+          {
+            "id": "bf5272a67d6e9e84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "media/ptacek.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ptacek"
+            }
+          },
+          {
+            "id": "2f083c4578db54d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "29d4816c02026574",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9529ed48582079fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "media/ptacek.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ptacek"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1ea7251d0e15d2c3",
+  "lastOpenFiles": [
+    "dalsi historicky clanek.md",
+    "historicky clanek.md",
+    "souvisejici clanek.md",
+    "Index.md",
+    "media",
+    "Pasted image 20260228115911.png",
+    "media/ptacek.png"
+  ]
+}
