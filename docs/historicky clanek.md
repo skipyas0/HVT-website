@@ -1,3 +1,0 @@
-zajimavy clanek
-
-[[souvisejici clanek]]
