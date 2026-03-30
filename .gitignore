@@ -1,1 +1,11 @@
-docs/.obsidian
+# Claude Code local config (personal, not for shared repo)
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
