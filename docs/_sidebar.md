@@ -8,5 +8,5 @@
 * **Historický kontext**
   * [Klíčové osobnosti](osobnosti.md)
 
-* **Zdroje kontext**
+* **Zdroje**
   * [O strojovně (example)](zdroje/zdroj_co_bylo_ve_strojovne.md)
