@@ -1,7 +1,7 @@
 # Strojovna
 
 Ve strojovně byly stroje.
-[(zdroj)](zdroje/zdroj_co_bylo_ve_strojovne.md)
+[(zdroj)](zdroje.md#strojovna-ref-1)
 ---
 
 [← Zpět na hlavní stranu](README.md)

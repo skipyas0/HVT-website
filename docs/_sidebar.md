@@ -4,9 +4,12 @@
 * **Pavilony**
   * [Strojovna](strojovna.md)
   * [Hlavní Pavilon](hlavnipavilon.md)
+  * [Pražský pavilon](pavilon_prazsky.md)
+  * [Papírenský pavilon](papirensky_pavilon.md)
+  * [Lanové dráhy – Petřín a Letná](lanove_drahy_petrin_a_letna.md)
 
 * **Historický kontext**
   * [Klíčové osobnosti](osobnosti.md)
 
 * **Zdroje**
-  * [O strojovně (example)](zdroje/zdroj_co_bylo_ve_strojovne.md)
+  * [Bibliografie](zdroje.md)
