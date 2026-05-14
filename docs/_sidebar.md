@@ -2,11 +2,11 @@
   * [Hlavní strana (mapa výstavy)](/)
 
 * **Pavilony**
-  * [Strojovna](strojovna.md)
-  * [Hlavní Pavilon](hlavnipavilon.md)
-  * [Pražský pavilon](pavilon_prazsky.md)
+  * [Cukrovarnický pavilon](cukrovarnicky_pavilon.md)
+  * [Elektrická dráha z Letné](elektricka_draha_z_letne.md)
   * [Papírenský pavilon](papirensky_pavilon.md)
-  * [Lanové dráhy – Petřín a Letná](lanove_drahy_petrin_a_letna.md)
+  * [Plynárenský pavilon](plynarensky_pavilon.md)
+  * [Výstavba výstaviště](vystavba_vystaviste.md)
 
 * **Historický kontext**
   * [Klíčové osobnosti](osobnosti.md)
