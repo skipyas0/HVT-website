@@ -24,6 +24,25 @@
 <li id="elektricka_draha_z_letne-ref-7"><strong>[7]</strong> Tramvajová doprava v Praze. In: Wikipedie: otevřená encyklopedie [online]. Wikimedia Foundation [cit. 2026-05-14]. Dostupné z: <a href="https://cs.wikipedia.org/wiki/Tramvajová_doprava_v_Praze">https://cs.wikipedia.org/wiki/Tramvajová_doprava_v_Praze</a></li>
 </ul>
 
+<h2 id="zdroje-hlavnipavilon">Průmyslový palác</h2>
+
+### Zdroje k textu
+
+<ul>
+<li id="hlavnipavilon-fn-1"><strong>[1]</strong> Zdroj: Radio Prague International (Dana Josefová, ČRo). Dostupné z: <a href="https://cesky.radio.cz/prumyslovy-palac-uz-130-let-jednim-ze-symbolu-prahy-8711463">https://cesky.radio.cz/prumyslovy-palac-uz-130-let-jednim-ze-symbolu-prahy-8711463</a></li>
+<li id="hlavnipavilon-fn-2"><strong>[2]</strong> Zdroj: foto rekonstrukce Průmyslového paláce, únor 2024. Viz Výstaviště Praha / navystavisti.cz: <a href="https://navystavisti.cz/areal/prumyslovy-palac/">https://navystavisti.cz/areal/prumyslovy-palac/</a></li>
+</ul>
+
+### Zdroje
+
+<ul>
+<li id="hlavnipavilon-ref-1"><strong>[1]</strong> HLAVAČKA, Milan. Jubilejní výstava 1891. Praha: Archiv hlavního města Prahy, 1991. ISBN 80-85076-02-5.</li>
+<li id="hlavnipavilon-ref-2"><strong>[2]</strong> SYNEK, Martin. Vývoj pražského veletržního areálu Výstaviště – Holešovice. Zlín: Univerzita Tomáše Bati ve Zlíně, 2005. Bakalářská práce. Dostupné z digitální knihovny UTB.</li>
+<li id="hlavnipavilon-ref-3"><strong>[3]</strong> Radio Prague International. Průmyslový palác už 130 let jedním ze symbolů Prahy. Dostupné z: <a href="https://cesky.radio.cz/prumyslovy-palac-uz-130-let-jednim-ze-symbolu-prahy-8711463">https://cesky.radio.cz/prumyslovy-palac-uz-130-let-jednim-ze-symbolu-prahy-8711463</a> <a href="https://www.nkp.cz">https://www.nkp.cz</a></li>
+<li id="hlavnipavilon-ref-4"><strong>[4]</strong> Prague City Line. Průmyslový palác. Dostupné z: <a href="https://www.praguecityline.cz/prazske-pamatky/prumyslovy-palac">https://www.praguecityline.cz/prazske-pamatky/prumyslovy-palac</a></li>
+<li id="hlavnipavilon-ref-5"><strong>[5]</strong> Památkový katalog. Průmyslový palác. Dostupné z: <a href="https://pamatkovykatalog.cz/prumyslovy-palac-3054169">https://pamatkovykatalog.cz/prumyslovy-palac-3054169</a></li>
+</ul>
+
 <h2 id="zdroje-osobnosti">Klíčové osobnosti</h2>
 
 ### Zdroje k textu
@@ -60,6 +79,45 @@
 <li id="papirensky_pavilon-fn-4"><strong>[4]</strong> Autor: neznamý – Sto let práce : Zpráva o všeobecné zemské výstavě v Praze 1891. Praha : Výkonný výbor zemské jubilejní výstavy, 1891, Volné dílo. Dostupné z: <a href="https://commons.wikimedia.org/w/index.php?curid=8942937">https://commons.wikimedia.org/w/index.php?curid=8942937</a></li>
 </ul>
 
+<h2 id="zdroje-pavilon_prazsky">Pražský pavilon</h2>
+
+### Zdroje k textu
+
+<ul>
+<li id="pavilon_prazsky-fn-1"><strong>[1]</strong> KRONBAUER, Rudolf Jaroslav. Naše jubilejní výstava: S přečetnými illustracemi. Praha: Vilímek, 1892, s. [108]. Dostupné také z: <a href="https://www.digitalniknihovna.cz/mlp/uuid/uuid:cd4b8720-f683-11dc-93b2-000d606f5dc6">https://www.digitalniknihovna.cz/mlp/uuid/uuid:cd4b8720-f683-11dc-93b2-000d606f5dc6</a></li>
+<li id="pavilon_prazsky-fn-2"><strong>[2]</strong> Český svět: illustrovaný čtrnáctideník. Praha: Vilímek, 1908, roč. 4. Reprodukce vyobrazení Pavilonu Královského hlavního města Prahy z Jubilejní výstavy 1908.</li>
+<li id="pavilon_prazsky-fn-3"><strong>[3]</strong> Světozor: světová kronika současná slovem i obrazem. Praha: F. Šimáček, 29. 5. 1908. Reprodukce vyobrazení Pavilonu Královského hlavního města Prahy.</li>
+</ul>
+
+### Zdroje
+
+<ul>
+<li id="pavilon_prazsky-ref-1"><strong>[1]</strong> EDERER, Antonín, UXA, Jan. <em>Pražské kašny a fontány</em>. Praha: Libri, 2004. ISBN 80-7277-234-1.</li>
+<li id="pavilon_prazsky-ref-2"><strong>[2]</strong> KRAUS, Vojtěch (ed.). <em>Almanach Král. hlav. města Prahy na rok 1907</em>. Praha, 1907, roč. X, č. 1.</li>
+<li id="pavilon_prazsky-ref-3"><strong>[3]</strong> ŠTYCH, Antonín (ed.). <em>Illustrovaný katalog pro Pavillon města Prahy a ostatní městské výstavní skupiny na Jubilejní výstavě obchodní a živnostenské komory pražské 1907</em>. Praha, 1907.</li>
+<li id="pavilon_prazsky-ref-4"><strong>[4]</strong> <em>Atlas Prahy</em> [online]. Praha: Institut plánování a rozvoje hl. m. Prahy, c2020 [cit. 2026-05-17]. Dostupné z: <a href="https://atlas.geoportalpraha.cz/">https://atlas.geoportalpraha.cz/</a></li>
+<li id="pavilon_prazsky-ref-5"><strong>[5]</strong> Fontána u Pavilonu Královského hlavního města Prahy. <em>Pražské kašny a fontány</em> [online]. c2016 [cit. 2026-05-17]. Dostupné z: <a href="https://www.prazskekasny.cz/fontana-u-pavilonu-kralovskeho-hlavniho-mesta-prahy/">https://www.prazskekasny.cz/fontana-u-pavilonu-kralovskeho-hlavniho-mesta-prahy/</a></li>
+</ul>
+
+<h2 id="zdroje-pavilon_zelezaren">Pavilon železáren</h2>
+
+### Zdroje k textu
+
+<ul>
+<li id="pavilon_zelezaren-fn-1"><strong>[1]</strong> Zdroj: Wikimedia Commons, File:Hanau_pavilion_1.jpg. Dostupné z: <a href="https://commons.wikimedia.org/wiki/File:Hanau_pavilion_1.jpg">https://commons.wikimedia.org/wiki/File:Hanau_pavilion_1.jpg</a></li>
+<li id="pavilon_zelezaren-fn-2"><strong>[2]</strong> Zdroj: Hanavský pavilon – oficiální stránky. Dostupné z: <a href="https://hanavsky-pavilon.cz/?lang=cs#impressions">https://hanavsky-pavilon.cz/?lang=cs#impressions</a></li>
+</ul>
+
+### Zdroje
+
+<ul>
+<li id="pavilon_zelezaren-ref-1"><strong>[1]</strong> HLAVAČKA, Milan; KOLÁŘ, František. Jubilejní výstava 1891. Praha: Techkom, 1991.</li>
+<li id="pavilon_zelezaren-ref-2"><strong>[2]</strong> Jubilejní výstava zemská Království českého v Praze 1891. Díl 1. Praha: F. Šimáček, 1894.</li>
+<li id="pavilon_zelezaren-ref-3"><strong>[3]</strong> POCHE, Emanuel. Prahou krok za krokem. Praha: Panorama, 1985.</li>
+<li id="pavilon_zelezaren-ref-4"><strong>[4]</strong> LEDVINKA, Václav a kol. Praha – dějiny města. Praha: Nakladatelství Lidové noviny, 2000.</li>
+<li id="pavilon_zelezaren-ref-5"><strong>[5]</strong> Národní knihovna České republiky. Dostupné z: <a href="https://www.nkp.cz">https://www.nkp.cz</a></li>
+</ul>
+
 <h2 id="zdroje-plynarensky_pavilon">Plynárenský pavilon</h2>
 
 ### Zdroje k textu
@@ -72,6 +130,14 @@
 
 <ul>
 <li id="plynarensky_pavilon-ref-1"><strong>[1]</strong> MIHULKA, Antonín. <em>Jiří Stibral</em>. Česká akademie věd a umění, Praha 1941.</li>
+</ul>
+
+<h2 id="zdroje-strojovna">Strojovna</h2>
+
+### Zdroje
+
+<ul>
+<li id="strojovna-ref-1"><strong>[1]</strong> Výkonný výbor zemské jubilejní výstavy. Sto let práce : Zpráva o všeobecné zemské výstavě v Praze 1891 : Na oslavu jubilea první průmyslové výstavy roku 1791 v Praze : Pod protektorátem Jeho cís. a král. Veličenstva císaře a krále Františka Josefa I. Praha : Výkonný výbor zemské jubilejní výstavy, 1893.</li>
 </ul>
 
 <h2 id="zdroje-vystavba_vystaviste">Výstavba výstaviště</h2>
