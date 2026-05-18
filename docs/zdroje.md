@@ -43,6 +43,23 @@
 <li id="hlavnipavilon-ref-5"><strong>[5]</strong> Památkový katalog. Průmyslový palác. Dostupné z: <a href="https://pamatkovykatalog.cz/prumyslovy-palac-3054169">https://pamatkovykatalog.cz/prumyslovy-palac-3054169</a></li>
 </ul>
 
+<h2 id="zdroje-lanove_drahy_petrin_a_letna">Lanové dráhy – Petřín a Letná</h2>
+
+### Zdroje k textu
+
+<ul>
+<li id="lanove_drahy_petrin_a_letna-fn-1"><strong>[1]</strong> ČEJPA, C. Lanová dráha na Letnou. Kultura21.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.kultura21.cz/historietradice/14546-lanova-draha-na-letnou">https://www.kultura21.cz/historietradice/14546-lanova-draha-na-letnou</a></li>
+<li id="lanove_drahy_petrin_a_letna-fn-2"><strong>[2]</strong> BERAN, L. Lanová dráha na Petřín. industrialnitopografie.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.industrialnitopografie.cz/cs/structures/lanova-draha-na-petrin-4074">https://www.industrialnitopografie.cz/cs/structures/lanova-draha-na-petrin-4074</a></li>
+<li id="lanove_drahy_petrin_a_letna-fn-3"><strong>[3]</strong> Před 125 lety zahájila provoz první lanová dráha v Praze. milujuprahu.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.milujuprahu.cz/zapomenuta-lanovka-na-letnou/">https://www.milujuprahu.cz/zapomenuta-lanovka-na-letnou/</a></li>
+<li id="lanove_drahy_petrin_a_letna-fn-4"><strong>[4]</strong> ČEJPA, C. Lanová dráha na Letnou. Kultura21.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.kultura21.cz/historietradice/14546-lanova-draha-na-letnou">https://www.kultura21.cz/historietradice/14546-lanova-draha-na-letnou</a></li>
+<li id="lanove_drahy_petrin_a_letna-fn-5"><strong>[5]</strong> MENHARD, J. <em>Jubilejní zemská výstava v Praze 1891 v kulturně-historickém kontextu</em>. Praha: Univerzita Karlova, 2021. Diplomová práce.</li>
+<li id="lanove_drahy_petrin_a_letna-fn-6"><strong>[6]</strong> Petřínská lanovka bývala poháněna vodou. ČT24 — Česká televize. 24. 7. 2011 [cit. 2026-04-27]. Dostupné z: <a href="https://ct24.ceskatelevize.cz/clanek/regiony/petrinska-lanovka-byvala-pohanena-vodou-237228">https://ct24.ceskatelevize.cz/clanek/regiony/petrinska-lanovka-byvala-pohanena-vodou-237228</a></li>
+<li id="lanove_drahy_petrin_a_letna-fn-7"><strong>[7]</strong> Petřínská rozhledna. Praha.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.praha.cz/po-pamatkach/petrinska-rozhledna">https://www.praha.cz/po-pamatkach/petrinska-rozhledna</a></li>
+<li id="lanove_drahy_petrin_a_letna-fn-8"><strong>[8]</strong> Před 125 lety zahájila provoz první lanová dráha v Praze. milujuprahu.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.milujuprahu.cz/zapomenuta-lanovka-na-letnou/">https://www.milujuprahu.cz/zapomenuta-lanovka-na-letnou/</a></li>
+<li id="lanove_drahy_petrin_a_letna-fn-9"><strong>[9]</strong> DOPRAVNÍ PODNIK HL. M. PRAHY. Lanová dráha na Petřín. Dopravní podnik hl. m. Prahy, akciová společnost [cit. 2026-04-27]. Dostupné z: <a href="https://www.dpp.cz/zabava-a-zazitky/lanova-draha-na-petrin">https://www.dpp.cz/zabava-a-zazitky/lanova-draha-na-petrin</a></li>
+<li id="lanove_drahy_petrin_a_letna-fn-10"><strong>[10]</strong> BERAN, L. Lanová dráha na Petřín. industrialnitopografie.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.industrialnitopografie.cz/cs/structures/lanova-draha-na-petrin-4074">https://www.industrialnitopografie.cz/cs/structures/lanova-draha-na-petrin-4074</a></li>
+</ul>
+
 <h2 id="zdroje-osobnosti">Klíčové osobnosti</h2>
 
 ### Zdroje k textu
@@ -97,6 +114,26 @@
 <li id="pavilon_prazsky-ref-3"><strong>[3]</strong> ŠTYCH, Antonín (ed.). <em>Illustrovaný katalog pro Pavillon města Prahy a ostatní městské výstavní skupiny na Jubilejní výstavě obchodní a živnostenské komory pražské 1907</em>. Praha, 1907.</li>
 <li id="pavilon_prazsky-ref-4"><strong>[4]</strong> <em>Atlas Prahy</em> [online]. Praha: Institut plánování a rozvoje hl. m. Prahy, c2020 [cit. 2026-05-17]. Dostupné z: <a href="https://atlas.geoportalpraha.cz/">https://atlas.geoportalpraha.cz/</a></li>
 <li id="pavilon_prazsky-ref-5"><strong>[5]</strong> Fontána u Pavilonu Královského hlavního města Prahy. <em>Pražské kašny a fontány</em> [online]. c2016 [cit. 2026-05-17]. Dostupné z: <a href="https://www.prazskekasny.cz/fontana-u-pavilonu-kralovskeho-hlavniho-mesta-prahy/">https://www.prazskekasny.cz/fontana-u-pavilonu-kralovskeho-hlavniho-mesta-prahy/</a></li>
+</ul>
+
+<h2 id="zdroje-petrinska_rozhledna">Petřínská rozhledna</h2>
+
+### Zdroje k textu
+
+<ul>
+<li id="petrinska_rozhledna-fn-1"><strong>[1]</strong> PRAGUE CITY TOURISM. Petřínská rozhledna. Prague.eu [cit. 2026-04-27]. Dostupné z: <a href="https://www.prague.eu/petrinskarozhledna">www.prague.eu/petrinskarozhledna</a></li>
+<li id="petrinska_rozhledna-fn-2"><strong>[2]</strong> MENHARD, J. <em>Jubilejní zemská výstava v Praze 1891 v kulturně-historickém kontextu</em>. Praha: Univerzita Karlova, 2021. Diplomová práce.</li>
+<li id="petrinska_rozhledna-fn-3"><strong>[3]</strong> NÁRODNÍ PAMÁTKOVÝ ÚSTAV. Petřínská rozhledna. Památkový Katalog [cit. 2026-04-27]. Dostupné z: <a href="https://pamatkovykatalog.cz/petrinska-rozhledna-16023724">https://pamatkovykatalog.cz/petrinska-rozhledna-16023724</a></li>
+<li id="petrinska_rozhledna-fn-4"><strong>[4]</strong> PRAGUE CITY TOURISM. Petřínská rozhledna. Prague.eu [cit. 2026-04-27]. Dostupné z: <a href="https://www.prague.eu/petrinskarozhledna">www.prague.eu/petrinskarozhledna</a></li>
+<li id="petrinska_rozhledna-fn-5"><strong>[5]</strong> NÁRODNÍ PAMÁTKOVÝ ÚSTAV. Petřínská rozhledna. Památkový Katalog [cit. 2026-05-18]. Dostupné z: <a href="https://pamatkovykatalog.cz/petrinska-rozhledna-16023724">https://pamatkovykatalog.cz/petrinska-rozhledna-16023724</a></li>
+<li id="petrinska_rozhledna-fn-6"><strong>[6]</strong> Petřínská rozhledna. Praha.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.praha.cz/po-pamatkach/petrinska-rozhledna">https://www.praha.cz/po-pamatkach/petrinska-rozhledna</a></li>
+<li id="petrinska_rozhledna-fn-7"><strong>[7]</strong> PRAGUE CITY TOURISM. Petřínská rozhledna. Prague.eu [cit. 2026-04-27]. Dostupné z: <a href="https://www.prague.eu/petrinskarozhledna">www.prague.eu/petrinskarozhledna</a></li>
+<li id="petrinska_rozhledna-fn-8"><strong>[8]</strong> MENHARD, J. <em>Jubilejní zemská výstava v Praze 1891 v kulturně-historickém kontextu</em>. Praha: Univerzita Karlova, 2021. Diplomová práce.</li>
+<li id="petrinska_rozhledna-fn-9"><strong>[9]</strong> PRAGUE CITY TOURISM. Petřínská rozhledna. Prague.eu [cit. 2026-04-27]. Dostupné z: <a href="https://www.prague.eu/petrinskarozhledna">www.prague.eu/petrinskarozhledna</a></li>
+<li id="petrinska_rozhledna-fn-10"><strong>[10]</strong> Petřínská rozhledna. Praha.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.praha.cz/po-pamatkach/petrinska-rozhledna">https://www.praha.cz/po-pamatkach/petrinska-rozhledna</a></li>
+<li id="petrinska_rozhledna-fn-11"><strong>[11]</strong> Historie Petřínské rozhledny. edu.ceskatelevize.cz [cit. 2026-04-27]. Dostupné z: <a href="https://edu.ceskatelevize.cz/video/12672-historie-petrinske-rozhledny">https://edu.ceskatelevize.cz/video/12672-historie-petrinske-rozhledny</a></li>
+<li id="petrinska_rozhledna-fn-12"><strong>[12]</strong> PRAGUE CITY TOURISM. Petřínská rozhledna. Prague.eu [cit. 2026-04-27]. Dostupné z: <a href="https://www.prague.eu/petrinskarozhledna">www.prague.eu/petrinskarozhledna</a></li>
+<li id="petrinska_rozhledna-fn-13"><strong>[13]</strong> Petřínská rozhledna. Praha.cz [cit. 2026-04-27]. Dostupné z: <a href="https://www.praha.cz/po-pamatkach/petrinska-rozhledna">https://www.praha.cz/po-pamatkach/petrinska-rozhledna</a></li>
 </ul>
 
 <h2 id="zdroje-pavilon_zelezaren">Pavilon železáren</h2>

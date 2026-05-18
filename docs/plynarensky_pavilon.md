@@ -8,7 +8,7 @@ Pavilon Městské plynárny pražské měl železnou konstrukci (skeletový syst
 
 ![](media/plynarensky_pavilon/image1.png)
 
-Pavilon městské plynárny pražské na Jubilejní zemské výstavě v Praze 1891. Pavilon se třemi tisíci plynovými hořáky, svítící zlatou korunou a sochou vznášejícího se génia.<sup>[\[1\]](zdroje.md#plynarensky_pavilon-fn-1)</sup>
+*Pavilon městské plynárny pražské na Jubilejní zemské výstavě v Praze 1891. Pavilon se třemi tisíci plynovými hořáky, svítící zlatou korunou a sochou vznášejícího se génia.*<sup>[\[1\]](zdroje.md#plynarensky_pavilon-fn-1)</sup>
 
 ---
 

@@ -10,7 +10,7 @@ Souborný pavilon, jak již název napovídá, sloužil několika tehdejším v�
 
 Základní tvar Souborného pavilonu byla podkova s vnitřním parkem. Návrh provedl architekt Eduard Frauenfeld, mladší (1853–1910) z Vídně ve slohu francouzské renesance. Samotnou stavbu pak organizoval a provedl pražský stavitel Alfred Wertmüller ([1852](https://cs.wikipedia.org/wiki/1852)–[1916](https://cs.wikipedia.org/wiki/1916)).
 
-Zajímavá symbolika spočívala v samotném –materiálu. Ke stavbě byl užit cement z vysokopecní strusky, která pocházela z Královédvorské továrny na cement. Ke střední části budovy vedlo dvanáctistupňové schodiště. Nacházelo se zde mnoho dekoračních prvků, např.:
+Zajímavá symbolika spočívala v samotném materiálu. Ke stavbě byl užit cement z vysokopecní strusky, která pocházela z Královédvorské továrny na cement. Ke střední části budovy vedlo dvanáctistupňové schodiště. Nacházelo se zde mnoho dekoračních prvků, např.:
 
 - **Lité sousoší Hutnictví a Hornictví** vzniklo v dílně sochaře a restaurátora Karla Vlačihy (1850-1932) v Praze podle návrhu dalšího českého sochaře-figuralisty Františka Hergesela (1857–1929). Jejich díla či restaurátorské práce lze nalézt například na Národním muzeu či na Karlově mostě.
 
@@ -71,6 +71,18 @@ Stručný přehled expozic podniků hutí-železáren na dalších místech:
 - **Železárny Rotava**–**Nejdek** (roku 1909 vznikla spojením s nejdeckými železárnami, provozovanými vídeňskou firmou C. T. Petzold, akciová společnost *Železárny Rotava* – *Nýdek*)**:** Expozice u kotelny, s vystavením různých druhů plechů, vymodelovaný hraběcí znak a stříšky z vlnitého plechu, galantérní zboží, železný nábytek či vojenské vybavení – např. konzervy, polní láhve aj.
 
 - **Zbirožské železárny Max Hopfengaertner (1842–1918):** Expozice v západním konci Strojovnyobsahovala vroubené zábradlí a množství obráběcích strojů (soustruhy, vrtací stroje, hoblovky, frézy). Z hlediska budování infrastruktury lze zmínit též sloupy pro obloukové lampy či odpadní roury. Firma též vystavovala svou produkci žehliček, kterých vyráběla desetitisíce kusů ročně.
+
+## Další obrázky
+
+![](media/hutnictvi_zelezarny/image1.png)
+
+![](media/hutnictvi_zelezarny/image2.png)
+
+![](media/hutnictvi_zelezarny/image3.png)
+
+![](media/hutnictvi_zelezarny/image4.png)
+
+![](media/hutnictvi_zelezarny/image5.jpg)
 
 ---
 

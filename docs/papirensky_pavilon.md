@@ -19,7 +19,9 @@ Tento případ dobře ukazuje, že i dočasné výstavní stavby mohly získat t
 
 ## Obrázky
 
-![](media/papirensky_pavilon/image1.png)*Pohled na Papírenský pavilon na Jubilejní zemské výstavě v Praze 1891.*<sup>[\[4\]](zdroje.md#papirensky_pavilon-fn-4)</sup>
+![](media/papirensky_pavilon/image1.png)
+
+*Pohled na Papírenský pavilon na Jubilejní zemské výstavě v Praze 1891.*<sup>[\[4\]](zdroje.md#papirensky_pavilon-fn-4)</sup>
 
 ---
 

@@ -44,6 +44,28 @@ Ve dvacátých a třicátých letech 20. století došlo k přestavbám a modifi
 
 Umístěna je v komplexu Messegelände Innsbruck určeném pro veletrhy, festivaly a podobné události. V komplexu probíhaly např. některé zápasy ledního hokeje na ZOH v letech 1964 a 1976, kde v obou případech získalo tehdejší Československo medaili, a to bronzovou a stříbrnou.
 
+## Obrázky
+
+![](media/strojovna/image1.png)
+
+![](media/strojovna/image2.png)
+
+![](media/strojovna/image3.png)
+
+![](media/strojovna/image4.png)
+
+![](media/strojovna/image5.png)
+
+![](media/strojovna/image6.png)
+
+![](media/strojovna/image7.png)
+
+![](media/strojovna/image8.png)
+
+![](media/strojovna/image9.png)
+
+![](media/strojovna/image10.jpeg)
+
 ---
 
 [→ Zdroje k této stránce](zdroje.md#zdroje-strojovna)

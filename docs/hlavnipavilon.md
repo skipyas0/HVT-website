@@ -58,11 +58,25 @@ V průběhu let proběhlo samozřejmě několik rekonstrukcí. Dne 16. 10. 2008 
 
 Výstaviště by se mělo v budoucnu rozdělit do pěti zón. Jednotlivé zóny budou věnované kultuře (Průmyslový palác, Lapidárium, Pavilón AVU, Vodní svět, restaurace), zábavě, sportu (Velká sportovní hala, Malá sportovní hala, plavecký bazén a divadlo Pyramida), relaxaci a prostoru pro konání open-air akcí (Křižíkova fontána a pavilony, Maroldovo panoráma a divadlo Spirála).
 
-![](media/hlavnipavilon/image1.png)Trosky levého křídla Průmyslového paláce po požáru v roce 2008.<sup>[\[1\]](zdroje.md#hlavnipavilon-fn-1)</sup>
+![](media/hlavnipavilon/image1.png)\
+
+*Trosky levého křídla Průmyslového paláce po požáru v roce 2008.*<sup>[\[1\]](zdroje.md#hlavnipavilon-fn-1)</sup>
 
 ![](media/hlavnipavilon/image2.png)
 
-Stavba levého křídla Průmyslového paláce – obnova – foto z února 2024<sup>[\[2\]](zdroje.md#hlavnipavilon-fn-2)</sup>
+*Stavba levého křídla Průmyslového paláce – obnova – foto z února 2024.*<sup>[\[2\]](zdroje.md#hlavnipavilon-fn-2)</sup>
+
+## Další obrázky
+
+![](media/prumyslovy_palac/image1.png)
+
+![](media/prumyslovy_palac/image2.png)
+
+![](media/prumyslovy_palac/image3.png)
+
+![](media/prumyslovy_palac/image4.jpg)
+
+![](media/prumyslovy_palac/image5.jpg)
 
 ---
 

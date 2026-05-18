@@ -12,6 +12,16 @@ Cukrovarnický pavilon byl, stejně jako většina oborových staveb, navržen j
 
 Jeho význam však spočívá v tom, že poskytl mimořádně ucelený obraz českého cukrovarnictví – od historických počátků přes technologický rozvoj až po tehdejší špičkovou úroveň výroby a exportu. V pavilonu byly prezentovány pokroky v oboru, od přechodu od lisování k difuzi, ukázky využití parních strojů po konkrétní statistiky o produkci. Pavilon tak fungoval nejen jako prezentace průmyslu, ale i jako důkaz jeho světové konkurenceschopnosti.
 
+## Obrázky
+
+![](media/cukrovarnicky_pavilon/image1.png)
+
+![](media/cukrovarnicky_pavilon/image2.png)
+
+![](media/cukrovarnicky_pavilon/image3.png)
+
+![](media/cukrovarnicky_pavilon/image4.jpg)
+
 ---
 
 [→ Zdroje k této stránce](zdroje.md#zdroje-cukrovarnicky_pavilon)

@@ -20,8 +20,8 @@ Za zánikem této dráhy stálo jednak ukončení Jubilejní výstavy a jednak n
 
 ![](media/elektricka_draha_z_letne/image2.png)
 
-*Foto tramvají které sloužily na této elektrické dráze*\
-\
+*Foto tramvají které sloužily na této elektrické dráze*
+
 Kuriozita na závěr: toto nebyla jediná dráha, která se snažila o to, aby Praha využila elektrických tramvají. Sylvester Krnka představil svoji ideu, a to šlapací tramvaj. Její trať byla 500 metrů dlouhá. Šlo ale jen o kuriozitu, která po výstavě zmizela.
 
 ---
