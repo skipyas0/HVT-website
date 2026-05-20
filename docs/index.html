@@ -16,9 +16,54 @@
     .prev-btn { left: 10px; }
     .next-btn { right: 10px; }
     .markdown-section p {text-align: justify;}
-    .markdown-section img {display: block; margin: 0 auto; max-width: 60%; height: auto;}
-    /* Center image captions (italic paragraph following an image paragraph). */
-    .markdown-section p:has(> img) + p:has(em) {text-align: center;}
+
+    /* Image polish: keep centered, add subtle frame + breathing room. */
+    .markdown-section img {
+      display: block;
+      margin: 1.5rem auto 0.5rem;
+      max-width: 60%;
+      height: auto;
+      border-radius: 4px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+    }
+
+    /* Image captions: centered, smaller, muted. Pull up to image so they */
+    /* visually belong together. */
+    .markdown-section p:has(> img) + p:has(em) {
+      text-align: center;
+      font-size: 0.92em;
+      color: #6a6a6a;
+      margin-top: 0;
+      margin-bottom: 2rem;
+    }
+
+    /* Citation superscripts: smaller and a touch lighter so they don't */
+    /* compete with body text. */
+    .markdown-section sup {
+      font-size: 0.7em;
+      margin-left: 1px;
+    }
+    .markdown-section sup a {
+      text-decoration: none;
+    }
+    .markdown-section sup a:hover {
+      text-decoration: underline;
+    }
+
+    /* Bibliography list: a bit more space between entries so they're */
+    /* easier to scan, and tighter line height inside each entry. */
+    .markdown-section ul li {
+      margin-bottom: 0.55em;
+      line-height: 1.55;
+    }
+
+    /* H2 section headings: subtle underline to separate sections, plus */
+    /* more top space to break up long pages visually. */
+    .markdown-section h2 {
+      padding-bottom: 0.3em;
+      border-bottom: 1px solid #eaeaea;
+      margin-top: 2.2em;
+    }
   </style>
 </head>
 <body>
