@@ -48,6 +48,10 @@ Součástí areálu byla řada tematických pavilonů a reprezentativních stave
 
 - Křižíkova elektrická fontána
 
+![](media/vystavba_vystaviste/image1.png)
+
+*Situační plán areálu Jubilejní zemské výstavy v Praze z roku 1891, zobrazující rozmístění jednotlivých pavilonů a budov.*<sup>[\[11\]](zdroje.md#vystavba_vystaviste-ref-11)</sup>
+
 Významnou součástí výstavy byly také technické atrakce a dopravní novinky. Návštěvníci mohli využít první elektrickou tramvaj Františka Křižíka, která spojovala část Prahy s výstavištěm. Velký zájem vzbudila také lanová dráha na Petřín a nově postavená Petřínská rozhledna, inspirovaná pařížskou Eiffelovou věží. Tyto stavby se staly symbolem technického pokroku českých zemí na konci 19. století.
 
 ## Průmyslový palác – hlavní stavba
@@ -57,6 +61,10 @@ Dominantou celého výstaviště se stal ***Průmyslový palác***, jedna z nejm
 Byl postaven z kombinace železné konstrukce a skla, což umožnilo vytvořit velký, otevřený a světlý prostor pro expozice. Tato technologie byla inspirována světovými výstavami (např. v Paříži nebo Londýně) a představovala vrchol tehdejší architektury.
 
 Stavba paláce byla technicky velmi náročná, protože vyžadovala přesnou výrobu kovových dílů i jejich rychlou montáž přímo na místě. Přesto se ji podařilo dokončit včas před zahájením výstavy.
+
+![](media/vystavba_vystaviste/image2.jpg)
+
+*Slavnostní vstupní brána, v pozadí Průmyslový palác.*<sup>[\[12\]](zdroje.md#vystavba_vystaviste-ref-12)</sup>
 
 ## Technické řešení a infrastruktura
 
@@ -70,35 +78,17 @@ Výstavba areálu nezahrnovala jen samotné pavilony, ale i kompletní infrastru
 
 - příprava prostoru pro dopravu návštěvníků včetně elektrické tramvaje
 
-Velkou roli sehrál František Křižík, který se podílel na elektrifikaci areálu. Díky tomu patřilo
+Velkou roli sehrál František Křižík, který se podílel na elektrifikaci areálu. Díky tomu patřilo výstaviště k technologicky nejvyspělejším projektům v českých zemích na konci 19. století.
 
-výstaviště k technologicky nejvyspělejším projektům v českých zemích na konci 19. století.
+![](media/vystavba_vystaviste/image3.png)
+
+*Křižíkova elektrická fontána na Jubilejní výstavě v Praze (1891), jedna z hlavních technických atrakcí s kombinací vody, světla a hudby.*<sup>[\[13\]](zdroje.md#vystavba_vystaviste-ref-13)</sup>
 
 ## Charakter staveb
 
 Většina pavilonů byla navržena jako dočasné stavby, často ze dřeva nebo lehkých konstrukcí. Důraz byl kladen na rychlost výstavby a estetický vzhled.
 
 Naopak některé budovy (především Průmyslový palác) byly koncipovány jako trvalé a měly sloužit i po skončení výstavy. To se také potvrdilo, protože se dochovaly dodnes a staly se součástí pražského Výstaviště.
-
-## Obrázky
-
-### Obrázek 1:
-
-![](media/vystavba_vystaviste/image1.png)
-
-*Situační plán areálu Jubilejní zemské výstavy v Praze z roku 1891, zobrazující rozmístění jednotlivých pavilonů a budov.*<sup>[\[1\]](zdroje.md#vystavba_vystaviste-fn-1)</sup>
-
-### Obrázek 2:
-
-![](media/vystavba_vystaviste/image2.jpg)
-
-*Průmyslový palác na pražském výstavišti, hlavní budova Jubilejní výstavy z roku 1891. Spíše ukazujete vstupní dřevěnou slavnostní bránu než Průmyslový palác*<sup>[\[2\]](zdroje.md#vystavba_vystaviste-fn-2)</sup>
-
-### Obrázek 3:
-
-![](media/vystavba_vystaviste/image3.png)
-
-*Křižíkova elektrická fontána na Jubilejní výstavě v Praze (1891), jedna z hlavních technických atrakcí s kombinací vody, světla a hudby.*<sup>[\[3\]](zdroje.md#vystavba_vystaviste-fn-3)</sup>
 
 ---
 

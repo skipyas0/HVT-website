@@ -6,9 +6,13 @@ Hutnictví a železárny byly soustředěny zejména do dvou pavilonů naproti z
 
 Souborný pavilon, jak již název napovídá, sloužil několika tehdejším významným podnikům.
 
-## Konstrukce
+### Konstrukce pavilonu
 
-Základní tvar Souborného pavilonu byla podkova s vnitřním parkem. Návrh provedl architekt Eduard Frauenfeld, mladší (1853–1910) z Vídně ve slohu francouzské renesance. Samotnou stavbu pak organizoval a provedl pražský stavitel Alfred Wertmüller ([1852](https://cs.wikipedia.org/wiki/1852)–[1916](https://cs.wikipedia.org/wiki/1916)).
+Základní tvar Souborného pavilonu byla podkova s vnitřním parkem. Návrh provedl architekt Eduard Frauenfeld, mladší (1853–1910) z Vídně ve slohu francouzské renesance. Samotnou stavbu pak organizoval a provedl pražský stavitel Alfred Wertmüller (1852–1916).
+
+![](media/hutnictvi_zelezarny/image1.png)
+
+*Souborný pavilon, dle okolí pravděpodobně ještě při přípravách.*<sup>[\[2\]](zdroje.md#pavilon_zelezaren-ref-2)</sup>
 
 Zajímavá symbolika spočívala v samotném materiálu. Ke stavbě byl užit cement z vysokopecní strusky, která pocházela z Královédvorské továrny na cement. Ke střední části budovy vedlo dvanáctistupňové schodiště. Nacházelo se zde mnoho dekoračních prvků, např.:
 
@@ -16,9 +20,13 @@ Zajímavá symbolika spočívala v samotném materiálu. Ke stavbě byl užit ce
 
 - **Tepaný rakouský orel** byl technologickou demostrací vláčnosti materiálu – ocelového plechu, ze kterého byl vyroben.
 
-- **Model** Karlo-Emilovy huti (Králův Dvůr u Berouna) se nacházel uprostřed vestibulu..
+- **Model** Karlo-Emilovy huti (Králův Dvůr u Berouna) se nacházel uprostřed vestibulu.
 
-## Expozice
+![](media/hutnictvi_zelezarny/image3.png)
+
+*Souborný pavilon, detailnější pohled ze strany.*<sup>[\[2\]](zdroje.md#pavilon_zelezaren-ref-2)</sup>
+
+### Expozice pavilonu
 
 Expozice se skládala z prvků a výrobků, které představovala celou cestu – od dolu až k výrobku – od rud až po kolejnice či plechy. Výběr ukazuje produkci významných podniků, které prezentovaly výrobky svoje a přidružených hutí, např.:
 
@@ -32,21 +40,17 @@ Expozice se skládala z prvků a výrobků, které představovala celou cestu �
 
 ## Hanavský pavilon
 
-Tento pavilon sloužil pouze jedné společnosti – železárnám knížete Viléma Hanavského (Wilhelm von Hanau, 1836–1901) v Komárově u Hořovic. Oproti Soubornému pavilonu se zaměřoval na uměleckou litinu,, čemuž odpovídalo celkové provedení. Stavbou svého pavilonu pro Jubilejní výstavu významně přispěl k české průmyslové kultuře 19. století.
+Tento pavilon sloužil pouze jedné společnosti – železárnám knížete Viléma Hanavského (Wilhelm von Hanau, 1836–1901) v Komárově u Hořovic. Oproti Soubornému pavilonu se zaměřoval na uměleckou litinu, čemuž odpovídalo celkové provedení. Stavbou svého pavilonu pro Jubilejní výstavu významně přispěl k české průmyslové kultuře 19. století.
 
-![](media/pavilon_zelezaren/image1.jpg)
-
-*Hanavský pavilon v Letenských sadech v Praze, jeho dnešní podoba.*<sup>[\[1\]](zdroje.md#pavilon_zelezaren-fn-1)</sup>
-
-![](media/pavilon_zelezaren/image2.jpg)
-
-*Detail věžičky a kovaného balkonu Hanavského pavilonu za soumraku.*<sup>[\[2\]](zdroje.md#pavilon_zelezaren-fn-2)</sup>
-
-## Konstrukce
+### Konstrukce pavilonu
 
 Stavba byla označována již v době svého vzniku "perla mezi pavilony". Provedení bylo ve slohu holandského (novo)baroka a byl postaven z tehdy moderních materiálů – železa, litiny a skla – doplněných klasickým zdivem. Pavilon měl litinovou konstrukci, která nesla množství ornamentů, které byly ještě nedávno považovány za vyrobitelné pouze klasickým uměleckým kovářstvím.
 
-## Expozice
+![](media/hutnictvi_zelezarny/image2.png)
+
+*Hanavský pavilon ve své původní podobě.*<sup>[\[2\]](zdroje.md#pavilon_zelezaren-ref-2)</sup>
+
+### Expozice pavilonu
 
 Vzhledem k uměleckému zaměření pavilonu splývá samotný koncept stavby s výzdobou a expozicí. Podklady uvádí následné prvky v interiéru:
 
@@ -58,9 +62,17 @@ Vzhledem k uměleckému zaměření pavilonu splývá samotný koncept stavby s 
 
 - Z běžnějších výrobků lze jmenovat litinové roury, nádobí, kamna a další.
 
-## Osud pavilonu
+### Další osud pavilonu
 
 Pavilon měl zajímavý osud i po ukončení výstavy, kdy kníže stavbu daroval městu Praze. Následně byl pavilon rozebrán a přenesen do Letenských sadů, kde stojí dodnes. Ve druhé polovině 20. století prošel několika rekonstrukcemi, při kterých bohužel zanikly některé charakteristické prvky. Dnes slouží jako restaurace s krásnými výhledy na západní vltavský břeh Prahy a pořádají se zde i mnohé kulturní akce.
+
+![](media/pavilon_zelezaren/image1.jpg)
+
+*Hanavský pavilon v Letenských sadech v Praze, jeho dnešní podoba.*<sup>[\[5\]](zdroje.md#pavilon_zelezaren-ref-5)</sup>
+
+![](media/pavilon_zelezaren/image2.jpg)
+
+*Detail věžičky a kovaného balkonu Hanavského pavilonu za soumraku.*<sup>[\[6\]](zdroje.md#pavilon_zelezaren-ref-6)</sup>
 
 ## Expozice na dalších místech
 
@@ -70,19 +82,12 @@ Stručný přehled expozic podniků hutí-železáren na dalších místech:
 
 - **Železárny Rotava**–**Nejdek** (roku 1909 vznikla spojením s nejdeckými železárnami, provozovanými vídeňskou firmou C. T. Petzold, akciová společnost *Železárny Rotava* – *Nýdek*)**:** Expozice u kotelny, s vystavením různých druhů plechů, vymodelovaný hraběcí znak a stříšky z vlnitého plechu, galantérní zboží, železný nábytek či vojenské vybavení – např. konzervy, polní láhve aj.
 
-- **Zbirožské železárny Max Hopfengaertner (1842–1918):** Expozice v západním konci Strojovnyobsahovala vroubené zábradlí a množství obráběcích strojů (soustruhy, vrtací stroje, hoblovky, frézy). Z hlediska budování infrastruktury lze zmínit též sloupy pro obloukové lampy či odpadní roury. Firma též vystavovala svou produkci žehliček, kterých vyráběla desetitisíce kusů ročně.
+- **Zbirožské železárny Max Hopfengaertner (1842–1918):** Expozice v západním konci Strojovny obsahovala vroubené zábradlí a množství obráběcích strojů (soustruhy, vrtací stroje, hoblovky, frézy). Z hlediska budování infrastruktury lze zmínit též sloupy pro obloukové lampy či odpadní roury. Firma též vystavovala svou produkci žehliček, kterých vyráběla desetitisíce kusů ročně.
 
-## Další obrázky
 
-![](media/hutnictvi_zelezarny/image1.png)
 
-![](media/hutnictvi_zelezarny/image2.png)
 
-![](media/hutnictvi_zelezarny/image3.png)
 
-![](media/hutnictvi_zelezarny/image4.png)
-
-![](media/hutnictvi_zelezarny/image5.jpg)
 
 ---
 

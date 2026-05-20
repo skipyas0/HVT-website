@@ -15,6 +15,10 @@
     .carousel-btn { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; cursor: pointer; font-size: 18px; z-index: 10;}
     .prev-btn { left: 10px; }
     .next-btn { right: 10px; }
+    .markdown-section p {text-align: justify;}
+    .markdown-section img {display: block; margin: 0 auto; max-width: 60%; height: auto;}
+    /* Center image captions (italic paragraph following an image paragraph). */
+    .markdown-section p:has(> img) + p:has(em) {text-align: center;}
   </style>
 </head>
 <body>

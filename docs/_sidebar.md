@@ -1,22 +1,24 @@
 * **Navigace**
   * [Hlavní strana (mapa výstavy)](/)
 
-* **Pavilony**
-  * [Cukrovarnický pavilon](cukrovarnicky_pavilon.md)
-  * [Elektrická dráha z Letné](elektricka_draha_z_letne.md)
-  * [Hutě – železárny](pavilon_zelezaren.md)
-  * [Lanové dráhy – Petřín a Letná](lanove_drahy_petrin_a_letna.md)
-  * [Papírenský pavilon](papirensky_pavilon.md)
-  * [Plynárenský pavilon](plynarensky_pavilon.md)
-  * [Petřínská rozhledna](petrinska_rozhledna.md)
-  * [Pražský pavilon](pavilon_prazsky.md)
-  * [Průmyslový palác (Hlavní pavilon)](hlavnipavilon.md)
-  * [Strojovna](strojovna.md)
-  * [Vzduchoplavba](vzduchoplavba.md)
+* **Historický kontext**
+  * [Osobnosti a organizace](osobnosti.md)
   * [Výstavba výstaviště](vystavba_vystaviste.md)
 
-* **Historický kontext**
-  * [Klíčové osobnosti](osobnosti.md)
+* **Na výstavišti**
+  * [Průmyslový palác](hlavnipavilon.md)
+  * [Pavilon strojů](strojovna.md)
+  * [Hutě – železárny](pavilon_zelezaren.md)  
+  * [Cukrovarnický pavilon](cukrovarnicky_pavilon.md)
+  * [Papírenský pavilon](papirensky_pavilon.md)
+  * [Pavilon městské plynárny pražské](plynarensky_pavilon.md)
+  * [Pavilon Královského hl. m. Prahy](pavilon_prazsky.md)
+  * [Balonová ohrada](vzduchoplavba.md)
+
+* **Mimo výstaviště**
+  * [Elektrická dráha](elektricka_draha_z_letne.md)
+  * [Lanové dráhy – Petřín a Letná](lanove_drahy_petrin_a_letna.md)  
+  * [Petřínská rozhledna](petrinska_rozhledna.md)  
 
 * **Zdroje**
   * [Bibliografie](zdroje.md)

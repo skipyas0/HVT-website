@@ -44,7 +44,7 @@ František Křižík (1847–1941) byl významný český vynálezce a elektrote
 
 ![](media/osobnosti/image1.png)
 
-*Portrét Františka Křižíka, českého elektrotechnika, pořízený pravděpodobně kolem roku 1902 v době jeho členství v Panské sněmovně.*<sup>[\[1\]](zdroje.md#osobnosti-fn-1)</sup>
+*Portrét Františka Křižíka, českého elektrotechnika, pořízený pravděpodobně kolem roku 1902 v době jeho členství v Panské sněmovně.*<sup>[\[9\]](zdroje.md#osobnosti-ref-9)</sup>
 
 ### Antonín Wiehl
 
@@ -52,7 +52,7 @@ Antonín Wiehl (1846–1910) byl český architekt a představitel historismu. P
 
 ![](media/osobnosti/image2.jpg)
 
-*Portrét Antonína Wiehla, českého architekta a významného představitele novorenesance, který se podílel na architektonickém řešení Jubilejní výstavy.*<sup>[\[2\]](zdroje.md#osobnosti-fn-2)</sup>
+*Portrét Antonína Wiehla, českého architekta a významného představitele novorenesance, který se podílel na architektonickém řešení Jubilejní výstavy.*<sup>[\[10\]](zdroje.md#osobnosti-ref-10)</sup>
 
 ### Bedřich Münzberger
 
@@ -60,7 +60,7 @@ Bedřich Münzberger (1846–1928) byl český architekt a hlavní projektant v�
 
 ![](media/osobnosti/image3.png)
 
-*Portrét Bedřicha Münzbergera, českého architekta a hlavního projektanta výstaviště Jubilejní výstavy v Praze (1891).*<sup>[\[3\]](zdroje.md#osobnosti-fn-3)</sup>
+*Portrét Bedřicha Münzbergera, českého architekta a hlavního projektanta výstaviště Jubilejní výstavy v Praze (1891).*<sup>[\[11\]](zdroje.md#osobnosti-ref-11)</sup>
 
 ### František Josef Thomayer
 
@@ -68,7 +68,7 @@ František Josef Thomayer (1856–1938) byl zahradní architekt a odborník na k
 
 ![](media/osobnosti/image4.png)
 
-*Portrét Františka Thomayera, českého zahradního architekta a autora sadových úprav výstaviště Jubilejní výstavy v Praze (1891).*<sup>[\[4\]](zdroje.md#osobnosti-fn-4)</sup>
+*Portrét Františka Thomayera, českého zahradního architekta a autora sadových úprav výstaviště Jubilejní výstavy v Praze (1891).*<sup>[\[12\]](zdroje.md#osobnosti-ref-12)</sup>
 
 ---
 
